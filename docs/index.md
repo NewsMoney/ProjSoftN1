@@ -11,6 +11,7 @@
 
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
+- [Diagrama de Atividades](#diagrama-de-atividades)
 - [Analise de Requisitos](#analise-de-requisitos)
 - [Diagrama dos Casos de Uso](#diagrama-dos-casos-de-uso)
 - [Descriçao Requisitos de Caso de Uso](#descriçao-requisitos-de-caso-de-uso)
@@ -61,21 +62,30 @@ Importante: Dá equipe se exigem profissionalismo e colaboração
 mútua.&gt;*
 
 
+# Diagrama de Atividades
+<img src="arqs/diagramapizza.png" alt="diagrama de uso da pizzaria"></img>
+
 # Analise de Requisitos
 
 *Analises dos Requisitos*
-<img src="arqs/fase1.jpeg" alt="analisederequisitos"> <br> 
-<img src="arqs/fas1.jpeg" alt="analisederequisitos">
+<img src="arqs/fase1.jpeg" alt="analisederequisitos"> </img><br> 
+<img src="arqs/fas1.jpeg" alt="analisederequisitos"></img>
 
 
 # Diagrama dos Casos de Uso
 
-<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador">
-<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central">
+<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador"></img>
+<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central"></img>
 
 # Descriçao Requisitos de Caso de Uso
 
-<h3><a href="arqs/1 Descrição de Caso de Uso.pdf">Primeira Descrição de caso de uso</a><h3>
-<h3><a href="arqs/2° DescriçãoCasodeUso.pdf">Segunda Descrição de caso de uso</a><h3>
+<img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1"><p>Pag 1</p></img>
+<img src="arqs/primeirocasodeusopag2.png"><p>Pag 2</p></img>
+<br> <br> <br>
+
+<img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><p>Pag 1</p></img>
+<img src="arqs/segundocasodeusopag2.png"><p>Pag 2</p> 
+
+<br<br>
 
 
