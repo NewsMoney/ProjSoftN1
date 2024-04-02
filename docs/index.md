@@ -12,12 +12,9 @@
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Analise de Requisitos](#analise-de-requisitos)
-- [Diagrama de Atividades](#diagrama-de-atividades)
-- [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Sequência](#diagrama-de-sequência)
-- [Diagrama de Classes](#diagrama-de-classes)
-- [Diagrama de Estados](#diagrama-de-estados)
-- [Diagrama de Implantação](#diagrama-de-implantação)
+- [Diagrama dos Casos de Uso](#diagrama-dos-casos-de-uso)
+- [](#)
+- [Descriçao Requisitos de Caso de Uso](#descriçao-requisitos-de-caso-de-uso)
 - [Referências](#referências)
 
 
@@ -68,31 +65,28 @@ mútua.&gt;*
 
 # Analise de Requisitos
 
+*Analises dos Requisitos*
+<img src="arqs/fas1.jpeg" alt="analisederequisitos"> <br> 
+<img src="arqs/fase1.jpeg" alt="analisederequisitos">
 
 
-# Diagrama de Atividades
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+# Diagrama dos Casos de Uso
 
-# Descrição dos Casos de Uso
+<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador">
+<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central">
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-# Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
 
-# Diagrama de Classes
+#
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
-# Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+# Descriçao Requisitos de Caso de Uso
 
-# Diagrama de Implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+<h3><a href="arqs/1 Descrição de Caso de Uso.pdf">Primeira Descrição de caso de uso</a><h3>
+<h3><a href="arqs/2° DescriçãoCasodeUso.pdf">Segunda Descrição de caso de uso</a><h3>
 
 # Referências
 
