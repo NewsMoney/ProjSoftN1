@@ -79,12 +79,12 @@ mútua.&gt;*
 
 # Descriçao Requisitos de Caso de Uso
 
-<img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1"><p>Pag 1</p></img>
-<img src="arqs/primeirocasodeusopag2.png"><p>Pag 2</p></img>
+<img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1"><figcaption>Pag 1</figcaption></img><br>
+<img src="arqs/primeirocasodeusopag2.png"><figcaption>Pag 2</figcaption></img>
 <br> <br> <br>
 
-<img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><p>Pag 1</p></img>
-<img src="arqs/segundocasodeusopag2.png"><p>Pag 2</p> 
+<img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><figcaption>Pag 1</figcaption></img><br>
+<img src="arqs/segundocasodeusopag2.png"><figcaption>Pag 2</figcaption> 
 
 <br<br>
 
