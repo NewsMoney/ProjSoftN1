@@ -86,6 +86,6 @@ mútua.&gt;*
 <img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><figcaption>Pag 1</figcaption></img><br>
 <img src="arqs/segundocasodeusopag2.png"><figcaption>Pag 2</figcaption> 
 
-<br<br>
+<br><br>
 
 
