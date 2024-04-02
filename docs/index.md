@@ -14,7 +14,6 @@
 - [Analise de Requisitos](#analise-de-requisitos)
 - [Diagrama dos Casos de Uso](#diagrama-dos-casos-de-uso)
 - [Descriçao Requisitos de Caso de Uso](#descriçao-requisitos-de-caso-de-uso)
-- [Referências](#referências)
 
 
 # Autores
@@ -65,8 +64,8 @@ mútua.&gt;*
 # Analise de Requisitos
 
 *Analises dos Requisitos*
-<img src="arqs/fas1.jpeg" alt="analisederequisitos"> <br> 
-<img src="arqs/fase1.jpeg" alt="analisederequisitos">
+<img src="arqs/fase1.jpeg" alt="analisederequisitos"> <br> 
+<img src="arqs/fas1.jpeg" alt="analisederequisitos">
 
 
 # Diagrama dos Casos de Uso
@@ -79,6 +78,4 @@ mútua.&gt;*
 <h3><a href="arqs/1 Descrição de Caso de Uso.pdf">Primeira Descrição de caso de uso</a><h3>
 <h3><a href="arqs/2° DescriçãoCasodeUso.pdf">Segunda Descrição de caso de uso</a><h3>
 
-# Referências
 
-*&lt;Lista de referências&gt;*
