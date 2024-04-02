@@ -13,7 +13,6 @@
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Analise de Requisitos](#analise-de-requisitos)
 - [Diagrama dos Casos de Uso](#diagrama-dos-casos-de-uso)
-- [](#)
 - [Descriçao Requisitos de Caso de Uso](#descriçao-requisitos-de-caso-de-uso)
 - [Referências](#referências)
 
@@ -70,18 +69,10 @@ mútua.&gt;*
 <img src="arqs/fase1.jpeg" alt="analisederequisitos">
 
 
-
 # Diagrama dos Casos de Uso
 
 <img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador">
 <img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central">
-
-
-
-
-#
-
-
 
 # Descriçao Requisitos de Caso de Uso
 
