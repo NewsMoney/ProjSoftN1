@@ -63,28 +63,28 @@ mútua.&gt;*
 
 
 # Diagrama de Atividades
-<img src="arqs/diagramapizza.png" alt="diagrama de uso da pizzaria"></img>
+<img src="arqs/diagramapizza.png" alt="diagrama de uso da pizzaria">
 
 # Analise de Requisitos
 
 *Analises dos Requisitos*
-<img src="arqs/fase1.jpeg" alt="analisederequisitos"> </img><br> 
-<img src="arqs/fas1.jpeg" alt="analisederequisitos"></img>
+<img src="arqs/fase1.jpeg" alt="analisederequisitos"> <br> 
+<img src="arqs/fas1.jpeg" alt="analisederequisitos">
 
 
 # Diagrama dos Casos de Uso
 
-<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador"></img>
-<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central"></img>
+<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador">
+<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central">
 
 # Descriçao Requisitos de Caso de Uso
 
-<img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1"><figcaption>Pag 1</figcaption></img><br>
-<img src="arqs/primeirocasodeusopag2.png"><figcaption>Pag 2</figcaption></img>
+<figure><img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1"><figcaption>Pag 1</figcaption> <br></figure>
+<figure><img src="arqs/primeirocasodeusopag2.png"><figcaption>Pag 2</figcaption></figure>
 <br> <br> <br>
 
-<img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><figcaption>Pag 1</figcaption></img><br>
-<img src="arqs/segundocasodeusopag2.png"><figcaption>Pag 2</figcaption> 
+<figure><img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1"><figcaption>Pag 1</figcaption><br>
+<figure><img src="arqs/segundocasodeusopag2.png"><figcaption>Pag 2</figcaption> </figure>
 
 <br><br>
 
