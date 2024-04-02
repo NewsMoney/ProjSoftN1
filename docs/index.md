@@ -11,8 +11,8 @@
 
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
+- [Analise de Requisitos](#analise-de-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades)
-- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
@@ -29,6 +29,8 @@
 
 
 # Descrição do Projeto
+
+<h3> Tema e Contexto do Projeto podem ser encontados em <a href="Tema e Contexto do Projeto.pdf">"Tema e Contexto"</a></h3>
 
 *&lt;Pizza-Express tem perdido recentemente 30% do rendimento de vendas
 devido a um problema em seu negócio da entrega. Atribuem este
@@ -64,11 +66,11 @@ Importante: Dá equipe se exigem profissionalismo e colaboração
 mútua.&gt;*
 
 
+# Analise de Requisitos
+
+
+
 # Diagrama de Atividades
-
-
-
-# Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
