@@ -30,7 +30,7 @@
 
 # Descrição do Projeto
 
-<h3> Tema e Contexto do Projeto podem ser encontados em <a href="Tema e Contexto do Projeto.pdf">"Tema e Contexto"</a></h3>
+<h3> Tema e Contexto do Projeto podem ser encontados em <a href="arqs/Tema e Contexto do Projeto.pdf">"Tema e Contexto"</a></h3>
 
 *&lt;Pizza-Express tem perdido recentemente 30% do rendimento de vendas
 devido a um problema em seu negócio da entrega. Atribuem este
