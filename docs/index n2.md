@@ -11,10 +11,10 @@
 
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
-- [Diagrama de Atividades](#diagrama-de-atividades)
-- [Analise de Requisitos](#analise-de-requisitos)
-- [Diagrama dos Casos de Uso](#diagrama-dos-casos-de-uso)
-- [Descriçao Requisitos de Caso de Uso](#descriçao-requisitos-de-caso-de-uso)
+- [V - Diagramas de Sequência](#v---diagramas-de-sequência)
+- [VI - Diagrama de Classes](#vi---diagrama-de-classes)
+- [VII - Diagrama de Estados](#vii---diagrama-de-estados)
+- [VIII - Diagrama de Implantação](#viii---diagrama-de-implantação)
 
 
 # Autores
@@ -62,29 +62,21 @@ Importante: Dá equipe se exigem profissionalismo e colaboração
 mútua.&gt;*
 
 
-# Diagrama de Atividades
-<img src="arqs/diagramapizza.png" alt="diagrama de uso da pizzaria">
+# V - Diagramas de Sequência
+<img src="arqs/diasequencias.jpeg" alt="diagrama sequencias">
 
-# Analise de Requisitos
+# VI - Diagrama de Classes
 
-*Analises dos Requisitos*
-<img src="arqs/fase1.jpeg" alt="analisederequisitos"> <br> 
-<img src="arqs/fas1.jpeg" alt="analisederequisitos">
+<img src="arqs/diaclasses.jpeg" alt="Diagrama de Classes">
 
 
-# Diagrama dos Casos de Uso
+# VII - Diagrama de Estados 
 
-<img src="arqs/loja-entregador-cliente_fase3.jpeg" alt="Loja Clientes e entregador">
-<img src="arqs/cliente-central_fase3.jpeg" alt="Cliente e Central">
+<img src="arqs/diaestado.png" alt="diagrama de estados"><br>
 
-# Descriçao Requisitos de Caso de Uso
+# VIII - Diagrama de Implantação
 
-<img src="arqs/primeirocasodeusopag1.png" alt="Primeiro caso de usopag1">Pag 1 <br>
-<img src="arqs/primeirocasodeusopag2.png">Pag 2
-<br> <br> <br>
-
-<img src="arqs/segundocasodeusopag1.png" alt="Segundo caso de usopag1">Pag 1<br>
-<img src="arqs/segundocasodeusopag2.png">Pag 2 
+<img src="arqs/diaimplantacao.png" alt="diagrama de implantaçao">
 
 <br><br>
 
