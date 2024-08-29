@@ -27,22 +27,18 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Bruno Antico Galin
+* Enzo Benedetto Proença
+* Gabriel Alves de Freitas Spinola Sucupira
+* Ismael de Sousa Silva
 
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O objetivo do projeto é implementar um sistema de controle de presença nas aulas do Ensino Fundamental I na escola Infinito, tratando-se dos alunos serem aprovados caso tenham presença em 75% das aulas, sendo que as chamadas são realizadas no início das aulas e logo após o intervalo por professores diferentes.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;	Tratando-se de engenharia de software, o projeto possui requisitos funcionais e não funcionais. Alguns requisitos funcionais importantes são: boa interface de usuário aos professores no registro de faltas, consequentemente com o professor criando um relatório informando o nome do aluno, sua turma, a disciplina a qual ele faltou e seu professor e, por fim, a data do ocorrido. Caso o aluno tenha faltas excessivas, os responsáveis pelo aluno serão notificados por um email. Já o requisito não funcional, isto é, será tratado com importância após a conclusão dos requisitos funcionais, é a acessibilidade do sistema aos usuários, como tamanho da fonte do website ou ter suporte à PCD.&gt;*
 
 # Diagrama de Atividades
 
