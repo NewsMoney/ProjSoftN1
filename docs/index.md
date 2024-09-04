@@ -12,7 +12,7 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
+- [Autor](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
@@ -25,16 +25,9 @@
 - [Referências](#referências)
 
 
-# Autores
+# Autor
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Milton Almeida Leôncio
 
 
 # Descrição do Projeto
