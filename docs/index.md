@@ -29,6 +29,13 @@
 
 O projeto consiste no desenvolvimento de um Sistema de Controle de Presenças para a Escola Infinito, que atualmente realiza o registro de presenças de forma manual, em papel. O sistema visa automatizar o processo de controle de faltas dos alunos, facilitando o trabalho dos professores e a gestão escolar.
 
+Principais funcionalidades:
+
+Registro de Faltas: Os professores podem registrar as faltas de forma fácil e intuitiva.
+Relatórios: O sistema gera relatórios detalhados de faltas, filtráveis por data, turma, professor, disciplina ou aluno.
+Notificações: Envio automático de e-mails aos pais quando a frequência do aluno cai abaixo de 80%.
+Acessibilidade: Suporte para pessoas com deficiência, com funcionalidades como ajuste de tamanho de fonte.
+Acesso Web: Disponível em navegadores, incluindo dispositivos móveis.
 O sistema busca substituir o processo atual por uma solução mais eficiente e acessível, garantindo que o acompanhamento das presenças seja mais organizado e prático.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
@@ -49,6 +56,7 @@ Requisitos Não-Funcionais
 - O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge, Safari) e funcionar adequadamente em dispositivos móveis com diferentes resoluções.
 - A interface do sistema deve ser amigável e de fácil navegação, minimizando a curva de aprendizado para os usuários (professores e administradores).
 - O sistema deve ter uma disponibilidade mínima de 99%, garantindo que esteja sempre acessível durante os horários de funcionamento da escola.*
+  
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
