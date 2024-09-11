@@ -34,14 +34,21 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 # Análise de Requisitos Funcionais e Não-Funcionais
 *Requisitos Funcionais: 
 
-- O sistema deve permitir que o usuário faça login com um nome de usuário e senha, sendo diferenciado entre professor e aluno
-- Os professores devem poder registrar as faltas de forma fácil e intuitiva.
-- O sistema deve gerar relatórios detalhados de faltas, filtráveis por data, turma, professor, disciplina ou aluno.
-- O sistema deve enviar automáticamente e-mails aos pais quando a frequência do aluno cai abaixo de 80%.
-- O sistema deve ter suporte para pessoas com deficiência, com funcionalidades como ajuste de tamanho de fonte.
-- O sistema deve estar disponível em navegadores, incluindo dispositivos móveis.
+- O sistema deve permitir que os usuários façam login utilizando um nome de usuário e senha, diferenciando os perfis de professores e alunos, com permissões específicas para cada tipo de usuário.
+- Os professores devem ser capazes de registrar as faltas de forma intuitiva e rápida, permitindo o acompanhamento diário das presenças dos alunos em cada turma.
+- O sistema deve gerar relatórios detalhados de faltas, com a opção de filtrar por diversos critérios, incluindo Data específica ou intervalo de datas, Ano escolar ou turma, Professor responsável, Disciplina ou aluno.
+- O sistema deve monitorar a frequência dos alunos e enviar automaticamente notificações por e-mail para os pais ou responsáveis, caso a frequência do aluno fique abaixo de 80%.
+- O sistema deve garantir suporte a usuários com necessidades especiais, incluindo funcionalidades como ajuste de tamanho de fonte e navegação facilitada.
+- O sistema deve ser acessível via navegadores da web, sendo compatível com computadores e dispositivos móveis, permitindo o uso em diferentes plataformas sem comprometer a experiência do usuário.
 
-Requisitos Não-Funcionais*
+Requisitos Não-Funcionais
+
+- O sistema deve ser capaz de processar o login e a consulta de relatórios em até 2 segundos, garantindo rapidez no acesso aos dados.
+- Todas as informações de login e dados de alunos devem ser protegidos por criptografia, garantindo a confidencialidade e integridade das informações.
+- O sistema deve ser escalável para suportar o crescimento do número de usuários, podendo acomodar turmas maiores e um aumento no número de professores sem perda de desempenho.
+- O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge, Safari) e funcionar adequadamente em dispositivos móveis com diferentes resoluções.
+- A interface do sistema deve ser amigável e de fácil navegação, minimizando a curva de aprendizado para os usuários (professores e administradores).
+- O sistema deve ter uma disponibilidade mínima de 99%, garantindo que esteja sempre acessível durante os horários de funcionamento da escola.*
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
