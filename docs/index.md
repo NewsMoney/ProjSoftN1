@@ -31,11 +31,12 @@ O projeto consiste no desenvolvimento de um Sistema de Controle de Presenças pa
 
 Principais funcionalidades:
 
-Registro de Faltas: Os professores podem registrar as faltas de forma fácil e intuitiva.
-Relatórios: O sistema gera relatórios detalhados de faltas, filtráveis por data, turma, professor, disciplina ou aluno.
-Notificações: Envio automático de e-mails aos pais quando a frequência do aluno cai abaixo de 80%.
-Acessibilidade: Suporte para pessoas com deficiência, com funcionalidades como ajuste de tamanho de fonte.
-Acesso Web: Disponível em navegadores, incluindo dispositivos móveis.
+- Registro de Faltas: Os professores podem registrar as faltas de forma fácil e intuitiva.
+- Relatórios: O sistema gera relatórios detalhados de faltas, filtráveis por data, turma, professor, disciplina ou aluno.
+- Notificações: Envio automático de e-mails aos pais quando a frequência do aluno cai abaixo de 80%.
+- Acessibilidade: Suporte para pessoas com deficiência, com funcionalidades como ajuste de tamanho de fonte.
+- Acesso Web: Disponível em navegadores, incluindo dispositivos móveis.
+
 O sistema busca substituir o processo atual por uma solução mais eficiente e acessível, garantindo que o acompanhamento das presenças seja mais organizado e prático.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
