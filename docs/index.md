@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Sistema de Controle de Presenças Escola Infinito*
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -32,10 +28,21 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+projeto consiste no desenvolvimento de um Sistema de Controle de Presenças para a Escola Infinito, que atualmente realiza o registro de presenças de forma manual, em papel. O sistema visa automatizar o processo de controle de faltas dos alunos, facilitando o trabalho dos professores e a gestão escolar.
+
+Principais funcionalidades:
+
+- Registro de Faltas: Os professores podem registrar as faltas de forma fácil e intuitiva.
+- Relatórios: O sistema gera relatórios detalhados de faltas, filtráveis por data, turma, professor, disciplina ou aluno.
+- Notificações: Envio automático de e-mails aos pais quando a frequência do aluno cai abaixo de 80%.
+- Acessibilidade: Suporte para pessoas com deficiência, com funcionalidades como ajuste de tamanho de fonte.
+- Acesso Web: Disponível em navegadores, incluindo dispositivos móveis.
+
+O sistema busca substituir o processo atual por uma solução mais eficiente e acessível, garantindo que o acompanhamento das presenças seja mais organizado e prático.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*Requisitos Funcionais: 
+- *
 
 # Diagrama de Atividades
 
