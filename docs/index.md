@@ -40,7 +40,7 @@ Principais funcionalidades:
 O sistema busca substituir o processo atual por uma solução mais eficiente e acessível, garantindo que o acompanhamento das presenças seja mais organizado e prático.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*Requisitos Funcionais: 
+*Requisitos Funcionais:*
 
 - O sistema deve permitir que os usuários façam login utilizando um nome de usuário e senha, diferenciando os perfis de professores e alunos, com permissões específicas para cada tipo de usuário.
 - Os professores devem ser capazes de registrar as faltas de forma intuitiva e rápida, permitindo o acompanhamento diário das presenças dos alunos em cada turma.
@@ -49,7 +49,7 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 - O sistema deve garantir suporte a usuários com necessidades especiais, incluindo funcionalidades como ajuste de tamanho de fonte e navegação facilitada.
 - O sistema deve ser acessível via navegadores da web, sendo compatível com computadores e dispositivos móveis, permitindo o uso em diferentes plataformas sem comprometer a experiência do usuário.
 
-Requisitos Não-Funcionais
+*Requisitos Não-Funcionais:*
 
 - O sistema deve ser capaz de processar o login e a consulta de relatórios em até 2 segundos, garantindo rapidez no acesso aos dados.
 - Todas as informações de login e dados de alunos devem ser protegidos por criptografia, garantindo a confidencialidade e integridade das informações.
