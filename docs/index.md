@@ -56,7 +56,7 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 - O sistema deve ser escalável para suportar o crescimento do número de usuários, podendo acomodar turmas maiores e um aumento no número de professores sem perda de desempenho.
 - O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge, Safari) e funcionar adequadamente em dispositivos móveis com diferentes resoluções.
 - A interface do sistema deve ser amigável e de fácil navegação, minimizando a curva de aprendizado para os usuários (professores e administradores).
-- O sistema deve ter uma disponibilidade mínima de 99%, garantindo que esteja sempre acessível durante os horários de funcionamento da escola.*
+- O sistema deve ter uma disponibilidade mínima de 99%, garantindo que esteja sempre acessível durante os horários de funcionamento da escola.
   
 # Diagrama de Atividades
 
