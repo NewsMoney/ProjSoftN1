@@ -60,7 +60,7 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
   
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Desenho](https://github.com/user-attachments/assets/27780342-4bd7-4c04-94c0-069ed418c127)
 
 # Diagrama de Casos de Uso
 
