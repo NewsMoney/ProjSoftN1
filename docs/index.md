@@ -62,13 +62,13 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 
 *Diagrama para visualizar o comportamento do sistema*
 
-![Desenho](https://github.com/user-attachments/assets/27780342-4bd7-4c04-94c0-069ed418c127)
+![Desenho (1)](https://github.com/user-attachments/assets/b5bf8319-cb77-4687-afc2-7339b1daa11f)
 
 # Diagrama de Casos de Uso
 
 *Diagrama para visualizar o comportamento dos atores*
 
-![Casos_de_Uso](https://github.com/user-attachments/assets/d44a8947-c793-4e69-947a-30def44a2b11)
+![Casos_de_Uso (1)](https://github.com/user-attachments/assets/3f33ff5b-26f1-4c3f-8f69-6924f99bf925)
 
 # Descrição dos Casos de Uso
 
