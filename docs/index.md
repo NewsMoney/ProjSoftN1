@@ -66,73 +66,8 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 # Diagrama de Casos de Uso
 
 *Diagrama para visualizar o comportamento dos atores*
-[Uploading Casos_de_Uso.xml…]()<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
-  <diagram name="Página-1" id="qzN4ffmXO8ULz5gD4bQf">
-    <mxGraphModel dx="1147" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8unOGw93lnWI2KK6Zvd-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329" y="524" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-1" value="Aluno/Resposavel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="554" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="m8unOGw93lnWI2KK6Zvd-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="524" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431" y="635" as="sourcePoint" />
-            <mxPoint x="314" y="663" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-3" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="421.5" y="554" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-9" value="Verificar faltas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="664" width="115" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275.4" y="634" as="sourcePoint" />
-            <mxPoint x="275.405" y="654.9" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-30" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="m8unOGw93lnWI2KK6Zvd-11" target="m8unOGw93lnWI2KK6Zvd-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-11" value="Lançar Faltas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="664" width="115" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436.4" y="634" as="sourcePoint" />
-            <mxPoint x="436.405" y="654.9" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="m8unOGw93lnWI2KK6Zvd-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489" y="474" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-13" value="Pessoa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="339" y="444" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-20" value="Efetuar login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="444" width="115" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m8unOGw93lnWI2KK6Zvd-29" value="Gerar relatorio de&lt;br&gt;faltas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="770" width="115" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+
+![Casos_de_Uso](https://github.com/user-attachments/assets/d44a8947-c793-4e69-947a-30def44a2b11)
 
 # Descrição dos Casos de Uso
 
