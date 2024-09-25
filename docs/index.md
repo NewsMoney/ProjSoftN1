@@ -42,7 +42,7 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 # Análise de Requisitos Funcionais e Não-Funcionais
 *Requisitos Funcionais:*
 
-- O sistema deve permitir que os usuários façam login utilizando um nome de usuário e senha, diferenciando os perfis de professores e alunos, com permissões específicas para cada tipo de usuário.
+- O sistema deve permitir que os usuários façam login utilizando um nome de usuário e senha, diferenciando os perfis de professores e responsáveis, com permissões específicas para cada tipo de usuário.
 - Os professores devem ser capazes de registrar as faltas de forma intuitiva e rápida, permitindo o acompanhamento diário das presenças dos alunos em cada turma.
 - O sistema deve gerar relatórios detalhados de faltas, com a opção de filtrar por diversos critérios, incluindo Data específica ou intervalo de datas, Ano escolar ou turma, Professor responsável, Disciplina ou aluno.
 - O sistema deve monitorar a frequência dos alunos e enviar automaticamente notificações por e-mail para os pais ou responsáveis, caso a frequência do aluno fique abaixo de 80%.
@@ -79,8 +79,8 @@ Efetuar Login:
 - Ator: Pessoa.
 
 Verificar Faltas:
-- O sistema deve permitir que o aluno ou responsável consulte as faltas registradas.
-- Ator: Aluno/Responsável.
+- O sistema deve permitir que o responsável consulte as faltas registradas do aluno.
+- Ator: Responsável.
 
 Lançar Faltas:
 - O sistema deve permitir que o professor registre as faltas de seus alunos.
@@ -107,7 +107,7 @@ Compatibilidade:
 - O sistema deve ser compatível com navegadores modernos e deve funcionar em dispositivos móveis.
 
 Autenticação:
-- Apenas usuários autenticados (professores, alunos ou responsáveis) podem acessar suas respectivas funcionalidades.
+- Apenas usuários autenticados (professores ou responsáveis) podem acessar suas respectivas funcionalidades.
 
 # Diagrama de Sequência
 
