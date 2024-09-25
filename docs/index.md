@@ -61,6 +61,7 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 # Diagrama de Atividades
 
 *Diagrama para visualizar o comportamento do sistema*
+
 ![Desenho](https://github.com/user-attachments/assets/27780342-4bd7-4c04-94c0-069ed418c127)
 
 # Diagrama de Casos de Uso
