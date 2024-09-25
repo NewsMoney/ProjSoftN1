@@ -72,40 +72,42 @@ O sistema busca substituir o processo atual por uma solução mais eficiente e a
 
 # Descrição dos Casos de Uso
 
-Requisitos Funcionais
+*Requisitos Funcionais*
+
 Efetuar Login:
+- O sistema deve permitir que o usuário faça login com suas credenciais (nome de usuário e senha) para acessar suas funcionalidades.
+- Ator: Pessoa.
 
-O sistema deve permitir que o usuário faça login com suas credenciais (nome de usuário e senha) para acessar suas funcionalidades.
-Ator: Pessoa.
 Verificar Faltas:
+- O sistema deve permitir que o aluno ou responsável consulte as faltas registradas.
+- Ator: Aluno/Responsável.
 
-O sistema deve permitir que o aluno ou responsável consulte as faltas registradas.
-Ator: Aluno/Responsável.
 Lançar Faltas:
+- O sistema deve permitir que o professor registre as faltas de seus alunos.
+- Ator: Professor.
 
-O sistema deve permitir que o professor registre as faltas de seus alunos.
-Ator: Professor.
 Gerar Relatório de Faltas:
+- O sistema deve gerar um relatório com todas as faltas registradas por um determinado período de tempo.
+- Ator: Professor.
 
-O sistema deve gerar um relatório com todas as faltas registradas por um determinado período de tempo.
-Ator: Professor.
-Requisitos Não Funcionais
+*Requisitos Não Funcionais*
+
 Segurança:
+- O sistema deve garantir a segurança dos dados dos usuários, utilizando criptografia para as senhas e protocolos de segurança no login.
 
-O sistema deve garantir a segurança dos dados dos usuários, utilizando criptografia para as senhas e protocolos de segurança no login.
 Desempenho:
+- O sistema deve ser capaz de gerar o relatório de faltas em até 5 segundos, mesmo com uma grande quantidade de dados.
 
-O sistema deve ser capaz de gerar o relatório de faltas em até 5 segundos, mesmo com uma grande quantidade de dados.
 Acessibilidade:
+- A interface do sistema deve ser intuitiva e acessível tanto para professores quanto para alunos e responsáveis.
 
-A interface do sistema deve ser intuitiva e acessível tanto para professores quanto para alunos e responsáveis.
-Restrições
+*Restrições*
+
 Compatibilidade:
+- O sistema deve ser compatível com navegadores modernos e deve funcionar em dispositivos móveis.
 
-O sistema deve ser compatível com navegadores modernos e deve funcionar em dispositivos móveis.
 Autenticação:
-
-Apenas usuários autenticados (professores, alunos ou responsáveis) podem acessar suas respectivas funcionalidades.
+- Apenas usuários autenticados (professores, alunos ou responsáveis) podem acessar suas respectivas funcionalidades.
 
 # Diagrama de Sequência
 
