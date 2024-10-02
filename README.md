@@ -8,7 +8,7 @@
 
 Este repositório contém o desenvolvimento de um Sistema de Presenças para a escola fictícia "Infinito". O objetivo é substituir o controle de presença manual, atualmente feito em papel, por uma solução digital eficiente e acessível.
 
-Funcionalidades:
+# Funcionalidades:
 - Registro de faltas: Permitir que os professores registrem as faltas de forma simples e intuitiva.
 - Relatórios de faltas: Gerar relatórios detalhados agrupados por data, turma, professor, disciplina ou aluno.
 - Notificações: Enviar notificações para pais ou responsáveis quando o percentual de faltas do aluno ultrapassar 20%.
@@ -20,7 +20,3 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Software, s
 # Documentação
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs)
-
-# Releases
-
-Deverá ser publicado um release ao término de cada entrega do projeto.
