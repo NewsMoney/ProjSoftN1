@@ -111,7 +111,9 @@ Autenticação:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*Diagrama de ordem e interação dos objetos*
+
+![Diagrama de sequencia drawio](https://github.com/user-attachments/assets/7faa9c34-ff75-497f-b3fc-fd4e406055d6)
 
 # Diagrama de Classes
 
