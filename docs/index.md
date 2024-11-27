@@ -123,7 +123,7 @@ Autenticação:
 
 # Diagrama de Estados
 
-*Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global*
+*Diagrama para modelar o comportamento interno de um determinado objeto, subsistema ou sistema global*
 
 ![Diagrama de Estados](https://github.com/user-attachments/assets/d8fb22c6-8f0e-4c2a-a764-82bc5d7439c1)
 
