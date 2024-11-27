@@ -132,6 +132,8 @@ Autenticação:
 
 *Diagrama para exibir o relacionamento de hardware e software no projeto*
 
+![Diagrama de Implantação](https://github.com/user-attachments/assets/53890576-2c71-44a7-983c-911235166396)
+
 # Referências
 
-*&lt;Lista de referências&gt;*
+*Lista de referências*
