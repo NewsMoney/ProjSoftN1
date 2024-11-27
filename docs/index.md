@@ -117,17 +117,19 @@ Autenticação:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;
+*Diagrama de relacionamento entre classes para os seus atributos e operações*
 
 ![Diagrama de Classes](https://github.com/user-attachments/assets/264fcbb5-1e39-49f5-97d7-f26a07f35618)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+*Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global*
+
+![Diagrama de Estados](https://github.com/user-attachments/assets/d8fb22c6-8f0e-4c2a-a764-82bc5d7439c1)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+*Diagrama para exibir o relacionamento de hardware e software no projeto*
 
 # Referências
 
