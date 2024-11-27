@@ -117,7 +117,9 @@ Autenticação:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;
+
+![Diagrama de Classes](https://github.com/user-attachments/assets/264fcbb5-1e39-49f5-97d7-f26a07f35618)
 
 # Diagrama de Estados
 
